@@ -1,0 +1,14 @@
+{
+  "name": "chat_proj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {"graphql-yoga": "^1.18.3"},
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
