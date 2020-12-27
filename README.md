@@ -15,14 +15,14 @@
 
 ### Yarn install
 
-$ curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -
-$ echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list
-$ sudo apt update
+$ curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -\
+$ echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list\
+$ sudo apt update\
 $ sudo apt install yarn
 
 ### GraphQl install
 
-$ yarn init -y 
+$ yarn init -y\
 $ yarn add graphql-yoga
 
 ### React Starter Pack
@@ -40,7 +40,5 @@ $ yarn add @apollo/client graphql
 ## Output 
 *(Sample comms conversation of two characters from fps valorant (sova, killjoy) )*
 
-[![Sample Video](doc/Sample.gif)](https://www.youtube.com/watch?v=LOiLYCMbqPk)
-
-
+![Sample Output](https://media.giphy.com/media/MSxxQA8nVRF3mHCRrF/giphy.gif)
 
