@@ -1,9 +1,9 @@
 # REALTIME CHAT PROJECT 
 
 ## Tech Stack Used 
-- [React Github Link](https://github.com/jherr/wp5-starter-react "React")
-- [Apollo Documentation Link](https://www.apollographql.com/docs/react/ "Apollo")
-- [GraphQl-Yoga Documentation Link](https://github.com/prisma-labs/graphql-yoga "GraphQl-Yoga")
+- [React](https://github.com/jherr/wp5-starter-react "React Github Link")
+- [Apollo](https://www.apollographql.com/docs/react/ "Apollo Documentation Link")
+- [GraphQl-Yoga](https://github.com/prisma-labs/graphql-yoga "GraphQl-Yoga Documentation Link")
 
 ## Steps Involved
 - Creating Server.js for GraphQl Server to initialise GraphQl playground.
